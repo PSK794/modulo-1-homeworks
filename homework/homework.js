@@ -39,21 +39,3 @@ module.exports = {
 }
 
 
-
-
-
-
-/*
-
-
-var restul = ""
-
-while(num > 0) {
-  restul = (num % 2) + restul
-
-  num = math.floor(num/2)
-
-}
-return restul
-
-*/
